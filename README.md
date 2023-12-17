@@ -36,7 +36,7 @@ This Discord bot is designed for paper trading and utilizes the Interactive Brok
 2. Replace `"BOT-TOKEN"` with your Discord bot token in the last line of the code.
 3. Run the bot using the following command:
     ```bash
-    python bot_file.py
+    python app.py
     ```
 
 ## Commands
