@@ -3,6 +3,9 @@
 ## Introduction
 This Discord bot is designed for paper trading and utilizes the Interactive Brokers (IBKR) API for executing stock market orders. It allows users to simulate buying and selling stocks in a Discord server environment without using real money.
 
+
+![00F15675-5C55-4A8A-BE0B-7A3F539B4E4B](https://github.com/Enigma-52/PaperTrading-DiscordBot/assets/95529619/e303b0ef-3ec3-4799-870a-4cb7e7012467)
+
 ## Prerequisites
 - Python 3.7 or higher
 - Discord.py library
@@ -25,6 +28,8 @@ This Discord bot is designed for paper trading and utilizes the Interactive Brok
     - Check the box for `Enable ActiveX and Socket Clients`.
     - Set the Socket port (default is 7496 for the main connection and 7497 for the secondary connection).
     - Note your Client ID for API connections.
+
+![9103CA5A-6B07-482A-90D6-779E9D1AFBB1](https://github.com/Enigma-52/PaperTrading-DiscordBot/assets/95529619/2a1dcecf-9781-46e9-840d-f826a288e312)
 
 ## Features
 - **Buy and Sell Commands:** Simulate buying and selling stocks using the `!BUY` and `!SELL` commands.
